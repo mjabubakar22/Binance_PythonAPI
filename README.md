@@ -24,3 +24,5 @@ issues with my bot (I think of it as a heartbeat for my bot).
 if I’m in a long and short position it will print out ‘In long/Short position’. if I’m in a winning trade it
 will print out which direction it is whether it’s a long or short winning position. Once my winning
 position either hits the take profit or trailing stop the bot runs again repeating the process!
+
+Video of the code going live: https://drive.google.com/file/d/18cjNkSElhnbb6H7DJvAmKSQx6H4OTW-f/view?usp=sharing
